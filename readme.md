@@ -1,4 +1,4 @@
-# Simple repo for working thourgh M Nielsen's online Machine learning book [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+# Working thourgh M Nielsen's online book [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 
 
